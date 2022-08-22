@@ -1,0 +1,13 @@
+com\cognizant\exception\ResourceNotFound.class
+com\cognizant\model\User.class
+com\cognizant\config\SecurityConfig.class
+com\cognizant\model\AuthRequest.class
+com\cognizant\exception\ControllerAdviceClass.class
+com\cognizant\AuthorizationMicroserviceApplication.class
+com\cognizant\repository\UserRepository.class
+com\cognizant\controller\AuthorizationController.class
+com\cognizant\util\JwtUtil.class
+com\cognizant\config\SwaggerConfig.class
+com\cognizant\filter\JwtFilter.class
+com\cognizant\exception\ErrorResponse.class
+com\cognizant\service\CustomUserDetailService.class

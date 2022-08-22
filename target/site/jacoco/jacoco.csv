@@ -1,0 +1,13 @@
+GROUP,PACKAGE,CLASS,INSTRUCTION_MISSED,INSTRUCTION_COVERED,BRANCH_MISSED,BRANCH_COVERED,LINE_MISSED,LINE_COVERED,COMPLEXITY_MISSED,COMPLEXITY_COVERED,METHOD_MISSED,METHOD_COVERED
+authorization-microservice,com.cognizant.filter,JwtFilter,63,3,10,0,16,1,6,1,1,1
+authorization-microservice,com.cognizant.exception,ResourceNotFound,16,0,0,0,4,0,4,0,4,0
+authorization-microservice,com.cognizant.exception,ErrorResponse,36,0,0,0,6,0,8,0,8,0
+authorization-microservice,com.cognizant.exception,ControllerAdviceClass,27,7,0,0,7,2,1,2,1,2
+authorization-microservice,com.cognizant.config,SecurityConfig,0,63,0,0,0,12,0,5,0,5
+authorization-microservice,com.cognizant.config,SwaggerConfig,0,36,0,0,0,15,0,4,0,4
+authorization-microservice,com.cognizant.model,User,0,36,0,0,0,6,0,8,0,8
+authorization-microservice,com.cognizant.model,AuthRequest,17,9,0,0,4,1,5,1,5,1
+authorization-microservice,com.cognizant,AuthorizationMicroserviceApplication,5,34,0,0,2,5,1,2,1,2
+authorization-microservice,com.cognizant.controller,AuthorizationController,97,7,4,0,24,2,6,2,4,2
+authorization-microservice,com.cognizant.service,CustomUserDetailService,31,7,0,0,7,2,1,2,1,2
+authorization-microservice,com.cognizant.util,JwtUtil,89,6,4,0,13,2,10,1,8,1

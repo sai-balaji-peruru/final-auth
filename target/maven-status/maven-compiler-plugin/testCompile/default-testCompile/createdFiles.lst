@@ -1,0 +1,5 @@
+com\cognizant\service\test\CustomUserDetailServiceTest.class
+com\cognizant\controller\test\AuthControllerTest.class
+com\cognizant\model\test\AuthorizationModelTest.class
+com\cognizant\repository\test\AuthRepositoryTest.class
+com\cognizant\AuthmsApplicationTests.class
